@@ -6,7 +6,7 @@ namespace MyFirstProgram
     {
         static void Main(String[] args)
         {
-            // Creating a Calculator....
+            // Creating a Simple Calculator using C# Programming....
             Console.WriteLine("Enter The Firt Number; ");
             int num1 = Convert.ToInt32(Console.ReadLine());
 
